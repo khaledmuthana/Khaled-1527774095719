@@ -1,0 +1,30 @@
+body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmnHg7kkAzm1a7ft3wFkmVhWWXGLTYNdOaLr2nGDqDGI2lqII");
+    background-size: 100%;
+    
+    font-size: 20px;
+     font-family: 'Berkshire Swash', cursive;
+     
+     
+}
+h1 {
+    color: blue;
+    background-color: white;
+}
+a {
+    color: white;
+    }
+   
+h2 {
+    font-size: 60px;
+    border:  medium solid black;
+    border-left-style:  solid;
+    background-color: white;
+}
+li{
+     border: medium solid yellow;
+    border-bottom-style: dashed;
+    margin:40px;
+    background-color: white;
+    width: 20%;
+}
